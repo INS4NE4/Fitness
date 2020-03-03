@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     list-style: none;
+    scroll-behavior: smooth;
 }
 @keyframes navigation {
     from {top: -70px;}
